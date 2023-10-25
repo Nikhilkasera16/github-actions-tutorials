@@ -7,4 +7,5 @@ jobs:
      runs-on: ubuntu-latest
      steps:
        - run: echo "We did the thing!"
-       - run: echo "We r back"
+       - run: echo "Hey This is workflow_disptach trigger mannually"
+       
